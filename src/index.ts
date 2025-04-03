@@ -1,4 +1,5 @@
 import NavBar from '@/components/NavBar.vue'
+import "@/assets/css/style.css"
 
 // 定义插件安装方法
 const install = (app: any) => {
